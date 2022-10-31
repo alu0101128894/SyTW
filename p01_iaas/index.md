@@ -1,4 +1,4 @@
-# Práctica 1 - Jerarquía de servidores
+# Práctica 1 - Laboratorio virtual en IaaS de la ULL
 
 ## Índice
 - [1. Introducción.](#introduccion)
